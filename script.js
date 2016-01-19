@@ -1,5 +1,5 @@
-/* Getting Started with React Tutorial
- *
+/* Getting Started with React.js Tutorial
+ * http://codoki.com/2016/01/20/getting-started-with-react-js
  */
 
 var TodoList = React.createClass({
